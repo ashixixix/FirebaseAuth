@@ -12,7 +12,7 @@ export default function Contact() {
     <div>
       <h2>Hey {name}, Contact Us</h2>
       <h2>{age}</h2>
-      <p>Lorem ipsum, dolor sit amet consectetasur adipisicing elit. Ipsam explicabo laudantium nemo voluptas cum omnis error voluptate. Nihil numquam ipsum necessitatibus hic odit neque consequuntur dolor. Magni quos ratione iste.</p>
+      <p>Lorem ipsum, dolor sit amet cossnsectetasur adipisicing elit. Ipsam explicabo laudantium nemo voluptas cum omnis error voluptate. Nihil numquam ipsum necessitatibus hic odit neque consequuntur dolor. Magni quos ratione iste.</p>
 
     </div>
   )
